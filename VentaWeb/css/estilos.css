@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #268CEA;
+    padding: 50px;
+    margin: auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.divPrincipal img{
+    width: 60%; 
+}
+
+.divPrincipal{
+    background-color: #58A8F1;
+    margin: auto auto;
+    padding: 20px 40px;
+    width: 90%;
+    font-size: 15px;
+    text-align: center;
+    border-top: 10px solid #D0E0EF;
+    border-bottom: 10px solid #D0E0EF;
+    border-radius: 5px;
+}
+
+.nav{
+    width: 1610px;
+    margin: 30px auto;
+    background-color: #D0E0EF;
+    border-radius: 05px;
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.menu > li{
+    position: relative; 
+    display: inline-block;
+}
+
+.menu > li >a{
+    font-size: 30px;
+    display: block;
+    padding: 15px 20px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.menu li a:hover{
+    color: #69B2C9;
+    transition: all .3s;
+}
+
+.ContenedorSectionAsideFooter{
+    width: 1550px;
+    height: 1000px;
+    margin: auto;
+    padding: 30px;
+    position: relative;
+}
+
+.seccionPrincipal{
+    width: 900px;
+    padding: 30px;
+    height: 890px;
+    float: left;
+    border-radius: 05px;
+}
+
+.articulo1{
+    background-color: #58A8F1;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 05px;
+    height: 330px;
+}
+
+.articulo1 h2{
+    font-size: 35px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.articulo1 p{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.articulo1 img{
+    height:  150px;
+}
+
+.articulo2{
+    background-color: #58A8F1;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 05px;
+    height: 440px;
+}
+
+.articulo2 h2{
+    font-size: 35px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.articulo2 p{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.articulo2 img{
+    height:  150px;
+}
+
+.asidePrincipal{
+    padding: 50px;
+    background-color: #D0E0EF;
+    width: 450px;
+    height: 850px;
+    float: right;
+    border-radius: 05px;
+}
+
+.asidePrincipal h3{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.asidePrincipal li{
+    font-size: 25px;
+}
+
+.asidePrincipal ul img{
+    height: 200px;
+}
+
+.footerPrincipal{
+    text-align: center;
+    font-size: 18px;
+    width: 1550px;
+    height: 60px;
+    margin-top: 70px;
+    float: left;
+    border-radius: 05px;
+}
+
+.ContenedorPortatilesComponentesPeriféricosAccesorios{
+    background-color: blueviolet;
+    height: 1670px;
+}
+
+.seccionProductos{
+    background-color: #58A8F1;
+    height: 1670px;
+}
+
+.Portatiles{
+    border-radius: 05px;
+    background-color: #D0E0EF;
+    margin: 00px 0;
+}
+
+.seccionProductos h2{
+    text-align: center;
+    font-size: 50px;
+    background-color: #D0E0EF;
+}
+
+.divPortatiles{
+    background-color: #58A8F1;
+    width: 1400px;
+    height: 450px;
+    padding: 20px 200px;
+}
+
+.MSI{
+    float: left;
+    margin-right: 300px;
+}
+
+.seccionProductos h3{
+    font-size: 30px; 
+}
+
+.MacBookPro{
+    float: left;
+}
+
+.seccionProductos ul{
+    list-style: none;
+    font-size: 25px;
+}
+
+.seccionProductos img{
+    height:  150px;
+    margin-top: 30px;
+}
+
+.divComponentes{
+    background-color: #58A8F1;
+    width: 1400px;
+    height: 450px;
+    padding: 20px 200px;
+}
+
+.NVIDIA{
+    float: left;
+    margin-right: 500px;
+}
+
+.AMD{
+    float: left;
+}
+
+
+.divPerifericos{
+    background-color: #58A8F1;
+    width: 1400px;
+    height: 450px;
+    padding: 20px 200px;
+}
+
+.TecladoLogi{
+    float: left;
+    margin-right: 500px;
+}
+
+.MouseLogi{
+    float: left;
+}
+
+.informacion{
+    text-align: center;
+    background-color: #58A8F1;
+    border-radius: 10px;
+}
+
+.informacion:hover{
+    background-color: #D0E0EF;
+    transition: all .5s;
+}
+
+.informacion p{
+    font-size: 25px;
+}
+
+.informacion h2{
+    margin: 05px 0;
+    font-size: 25px;
+}
+
+
+
+
+
